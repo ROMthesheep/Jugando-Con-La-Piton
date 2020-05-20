@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c03200f-1fe2-4783-bddb-f3e38a532d39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Response fetcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordAnalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordAnalysis/España/WordAnalysis TreechartEspaña.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordAnalysis/España/WordAnalysis barrasEspaña.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordAnalysis/España/top 15 palabras.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/84p4KcDeDCvhy3m3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/CrPfWKLXBOA36y0r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXHbqRdXkAEhvZS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXL-U6gXkAAznFe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXL9Z9rXQAM1Otr (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXM5hMLUcAAdjGG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXM6COpXsAAkYkl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXMQaMMX0AUn-ds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXMRy1FXkBE8LAQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXMdtuCWsAAQl1I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXMtuwtXYAMrd9d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXMwuywWAAA5nB3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXNWncAXgAAdq2l (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXNWncAXgAAdq2l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXQ042EWkAAsxY4 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXQ042EWkAAsxY4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXQKqbaWoAA7iwC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXQX9I5XgAYoK2I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXQlMdsWkAEzUGq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/EXRAyLWWsAAZQhY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/IJ2BukWpm2T0J6bz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/Ui7w-RxxJ1SIv8rD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/YvlqNOHC6wR0iBZy (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/YvlqNOHC6wR0iBZy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/b5obNRVHAOD7PwoT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/dsWgLj62VXgU89fn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/jAHf9MpxwW1Dlf8J.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/yEJqi5UYS3b0tHKi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imager scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Imager scraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testbench.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testbench tweetpy.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bD7jP2h6cnK5yt7rlG308rRgjG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mierda\jugando con la piton\twitbot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Imager scraper2">
+    <configuration name="Imager scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="twitbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imager scraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Imager scraper2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="twitbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imager scraper2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Imager scraper3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="twitbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imager scraper3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WordAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="twitbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WordAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="twitbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.WordAnalysis" />
+      <item itemvalue="Python.Imager scraper" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.Imager scraper2" />
+      <item itemvalue="Python.Imager scraper3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Imager scraper2" />
+        <item itemvalue="Python.Imager scraper3" />
+        <item itemvalue="Python.Imager scraper" />
+        <item itemvalue="Python.WordAnalysis" />
+        <item itemvalue="Python.test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c03200f-1fe2-4783-bddb-f3e38a532d39" name="Default Changelist" comment="" />
+      <created>1588154944696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588154944696</updated>
+      <workItem from="1588154957491" duration="17674000" />
+      <workItem from="1588183053619" duration="3746000" />
+      <workItem from="1588601873706" duration="7372000" />
+      <workItem from="1588611342741" duration="14117000" />
+      <workItem from="1588662125079" duration="10504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588185477951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1588185477951" />
+    <state width="520" height="878" key="GridCell.Tab.0.bottom" timestamp="1588694798251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="520" height="698" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.76.1440.860@-1440.76.1440.860" timestamp="1588679465005" />
+    <state width="520" height="878" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1588694798251" />
+    <state width="520" height="878" key="GridCell.Tab.0.center" timestamp="1588694798251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="520" height="698" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.76.1440.860@-1440.76.1440.860" timestamp="1588679465005" />
+    <state width="520" height="878" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1588694798251" />
+    <state width="520" height="878" key="GridCell.Tab.0.left" timestamp="1588694798251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="520" height="698" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.76.1440.860@-1440.76.1440.860" timestamp="1588679465005" />
+    <state width="520" height="878" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1588694798251" />
+    <state width="520" height="878" key="GridCell.Tab.0.right" timestamp="1588694798251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="520" height="698" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.76.1440.860@-1440.76.1440.860" timestamp="1588679465005" />
+    <state width="520" height="878" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1588694798251" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1588157492621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1588157492621" />
+    <state x="775" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588160779642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1588160779642" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588620366194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1440.76.1440.860@0.0.1920.1040" timestamp="1588620366194" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/twitbot$WordAnalysis2.coverage" NAME="WordAnalysis2 Coverage Results" MODIFIED="1588618841223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$testbench.coverage" NAME="testbench Coverage Results" MODIFIED="1588175743465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$Imager_scraper__1_.coverage" NAME="Imager scraper (1) Coverage Results" MODIFIED="1588182057727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$fachabot.coverage" NAME="fachabot Coverage Results" MODIFIED="1588182232618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$monitor.coverage" NAME="monitor Coverage Results" MODIFIED="1588180520053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$Imager_scraper3.coverage" NAME="Imager scraper3 Coverage Results" MODIFIED="1588679135480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$WordAnalysis.coverage" NAME="WordAnalysis Coverage Results" MODIFIED="1588672589433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$Testbench__1_.coverage" NAME="Testbench (1) Coverage Results" MODIFIED="1588603426472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$dict_practice.coverage" NAME="dict practice Coverage Results" MODIFIED="1588617725279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$Response_fetcher.coverage" NAME="Response fetcher Coverage Results" MODIFIED="1588185493359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$Testbench.coverage" NAME="Testbench Coverage Results" MODIFIED="1588185449057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$Imager_scraper2.coverage" NAME="Imager scraper2 Coverage Results" MODIFIED="1588679464995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1588620209239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/twitbot$Imager_scraper.coverage" NAME="Imager scraper Coverage Results" MODIFIED="1588675956399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
